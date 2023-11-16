@@ -39,7 +39,9 @@ We utilized a range of technologies and tools to create Gigachat, including:
 
 - **React Native:** The app is built using React Native, ensuring cross-platform compatibility for both iOS and Android.
 
-- **MongoDB:** MongoDB serves as the database for real-time data storage, user authentication, and push notifications.
+- **Node and express.js:** The API and all of our backend was created with help of those 2 technologies. 
+
+- **MongoDB:** MongoDB serves as the database for real-time data storage.
 
 - **ChakraUI:** We used Chakra UI for the app's user interface components, allowing for a sleek and responsive design.
 
